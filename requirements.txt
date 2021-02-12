@@ -1,0 +1,5 @@
+dlib = 19.21
+numpy = 1.19.4
+cv2 = 4.5.0
+pyautogui = 0.9.48
+python = 3.8.5
